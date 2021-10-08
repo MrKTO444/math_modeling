@@ -3,9 +3,17 @@
     ".replit": [
       {
         "id": "fae285ba-ef03-4c54-b23d-c52a5d697ccf",
-        "line": 2,
-        "version": 16,
-        "index": 20
+        "line": 3,
+        "version": 20,
+        "index": 21
+      }
+    ],
+    "lec_1_math_oper.py": [
+      {
+        "id": "37c19bbe-8da8-4ebf-9046-71b877aba6a6",
+        "line": 5,
+        "version": 86,
+        "index": 24
       }
     ]
   }
