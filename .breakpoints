@@ -7,6 +7,14 @@
         "version": 16,
         "index": 20
       }
+    ],
+    "lec_3_import.py": [
+      {
+        "id": "19f80e86-97d4-41a0-aae9-929efd927bb8",
+        "line": 9,
+        "version": 101,
+        "index": 114
+      }
     ]
   }
 }
