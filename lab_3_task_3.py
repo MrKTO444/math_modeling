@@ -1,5 +1,5 @@
 import numpy as np
-from lab_3_task_1 import g
+from const import g
 
 a = np.zeros((6 , 3))
 
