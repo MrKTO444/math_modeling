@@ -7,6 +7,22 @@
         "version": 16,
         "index": 20
       }
+    ],
+    "lec_4_data_type.py": [
+      {
+        "id": "03048287-78b5-4529-9efa-026558f17e7f",
+        "line": 27,
+        "version": 341,
+        "index": 213
+      }
+    ],
+    "lec_4_discr.py": [
+      {
+        "id": "eb5bf7ec-f584-4304-8bd9-04afea810dbb",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
     ]
   }
 }
